@@ -1,6 +1,6 @@
-# Quill Focus
+# Quill FocusEmitter
 
-This package is a [Quill.js](https://quillljs.com/) module that add focus mode.
+This package is a [Quill.js](https://quillljs.com/) module that adds focus, focusin and focusout events.
 
 ## Quickstart
 
